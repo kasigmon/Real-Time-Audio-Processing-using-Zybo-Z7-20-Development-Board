@@ -7,12 +7,6 @@ This repository contains a Digital Signal Processing ("DSP") circuit, implemente
 
 **Full details regarding the design of this project, including project objectives, paper designs, RTL schematics, and testing results are detailed in [the report ENGG_463_FPGA_Lab_901_Write_Up.pdf](https://github.com/kasigmon/fpga-lab-901/blob/main/ENGG_463_FPGA_Lab_901_Write_Up.pdf).**
 
-## Brief Explanatory Video
-
-[![Video](https://img.youtube.com/vi/DoEGDBczHY4/0.jpg)](https://www.youtube.com/watch?v=DoEGDBczHY4)
-
-( [YouTube Video Link](https://www.youtube.com/watch?v=DoEGDBczHY4) )
-
 ## Included Material
 
 All content for this project is organized in different folders:
